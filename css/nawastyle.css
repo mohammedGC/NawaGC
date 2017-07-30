@@ -1,0 +1,22 @@
+.panel-default >.panel-heading{
+  background-color: #003399;
+  color:white;
+}
+
+.panel-default >.panel-heading h2{
+  text-align: center;
+  line-height: 5px;
+}
+.panel-default >.panel-body img{
+  border-style: solid;
+  border-width: 0.1px;
+}
+#myCarousel{
+  border-bottom: solid;
+  border-color: white;
+  border-width: 0.1em;
+}
+
+body{
+  background: url('../images/norroses.png');
+}
