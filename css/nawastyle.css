@@ -7,9 +7,14 @@
   text-align: center;
   line-height: 5px;
 }
+
 .panel-default >.panel-body img{
   border-style: solid;
   border-width: 0.1px;
+}
+
+.panel-default > div.panel-body{
+
 }
 #myCarousel{
   border-bottom: solid;
