@@ -25,3 +25,13 @@
 body{
   background: url('../images/norroses.png');
 }
+
+/*style for language change link*/
+    #lang_link {
+    color: blue;
+    font-size: 15px;
+}
+
+#lang_link:hover {
+    text-decoration: underline;
+    }
