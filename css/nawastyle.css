@@ -35,7 +35,3 @@ body{
 #lang_link:hover {
     text-decoration: underline;
     }
-
-#chartsPanel {
-  display: none;
-}
