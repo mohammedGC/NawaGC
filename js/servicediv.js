@@ -15,9 +15,8 @@ $(document).ready(function(){
 	    cbody = '<div class="panel-body"><a href="' + servicename[ser] + '.html"><img class="img-responsive img-portfolio img-hover" src="../images/' + servicename[ser] + '.jpg" alt=""></a>',
 	    disc = '<p>'+ servicedisc[servicename[ser]] + '</p> <a href="#" class="btn btn-default">Learn More</a>',
 	    closetags = '</div></div></div></div>';
-	    test = col+panel+panelheading+header+cpanel+cbody+disc+closetags;
-	    $('.servicediv').append(test);
-	    //$('.servicediv').append(col, panel, panelheading, header, cpanel, cbody, disc, closetags + '</div>');
+	    servicepanel = col+panel+panelheading+header+cpanel+cbody+disc+closetags;
+	    $('.servicediv').append(servicepanel);
 	}
 
 
