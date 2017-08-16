@@ -34,4 +34,8 @@ body{
 
 #lang_link:hover {
     text-decoration: underline;
-    }
+}
+
+.servicediv{
+  text-align: center;
+}
